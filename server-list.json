@@ -10,5 +10,6 @@
   { "addr": "zyydi.top", "port": 9595, "name": "逐云阁" },
   { "addr": "8.130.97.244", "port": 9527, "name": "氯师杀" },
   { "addr": "47.117.166.43", "port": 9527, "name": "Vup杀服务器" },
+  { "addr": "47.115.41.110", "port": 9527, "name": "DIY PVP服务器" },
   { "addr": "", "port": -1, "name": "RESERVED" }
 ]
