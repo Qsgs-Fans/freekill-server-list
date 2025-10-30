@@ -15,6 +15,7 @@
   { "addr": "8.138.98.6", "port": 9527, "name": "老无极服" },
   { "addr": "101.33.208.188", "port": 9527, "name": "君士坦丁堡" },
   { "addr": "47.93.18.116", "port": 9527, "name": "LB崩铁杀" },
+  { "addr": "zn.akiracloud.net" , "port" : 12567 , "name" : "春风服"},
   
   { "addr": "", "port": -1, "name": "RESERVED" }
 ]
