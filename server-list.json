@@ -16,7 +16,8 @@
   { "addr": "8.138.98.6", "port": 9527, "name": "老无极服" },
   { "addr": "101.33.208.188", "port": 9527, "name": "君士坦丁堡" },
   { "addr": "47.93.18.116", "port": 9527, "name": "LB拉布牌社" },
-  { "addr": "zn.akiracloud.net", "port": 12567, "name": "春风服" },
+  { "addr": "minecraft.moe", "port": 12567, "name": "春风服" },
+  { "addr": "shixin.foxkill.top", "port": 9527 , "name": "超银河传说" },
   { "addr": "freekill.davidchen.me", "port": 9527, "name": "新月杀北美服" },
   
   { "addr": "", "port": -1, "name": "RESERVED" }
