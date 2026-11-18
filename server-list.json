@@ -20,6 +20,7 @@
   { "addr": "47.93.18.116", "port": 9527, "name": "LB拉布牌社" },
   { "addr": "minecraft.moe", "port": 12567, "name": "春风服" },
   { "addr": "freekill.davidchen.me", "port": 9527, "name": "新月杀北美服" },
+  { "addr": "123.56.151.93", "port": 9527, "name": "牛马司" },
   
   { "addr": "1.117.60.254", "port": 9527, "name": "异次元服" },
   { "addr": "", "port": -1, "name": "RESERVED" }
